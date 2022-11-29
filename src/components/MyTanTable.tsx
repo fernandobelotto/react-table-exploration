@@ -46,7 +46,7 @@ const columns = [
 export default function MyTanTable() {
   const data = [
     { name: "Fernando", age: 24, country: "Brasil", isActive: true },
-    { name: "Guilherme", age: 25, country: "Brasil", isActive: false },
+    { name: "Giovana", age: 25, country: "Brasil", isActive: false },
     { name: "João", age: 26, country: "Brasil", isActive: true },
 
   ];
